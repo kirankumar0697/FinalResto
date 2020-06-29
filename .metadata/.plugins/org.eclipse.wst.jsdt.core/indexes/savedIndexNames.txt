@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\newresto-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2516643343.index
+3685232468.index
+4139632215.index
+4107073560.index
+852477206.index
+901843641.index
