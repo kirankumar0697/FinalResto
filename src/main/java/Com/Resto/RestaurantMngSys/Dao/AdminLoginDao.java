@@ -1,4 +1,4 @@
-package Com.Resto.RestaurantMngSys.Service;
+package Com.Resto.RestaurantMngSys.Dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

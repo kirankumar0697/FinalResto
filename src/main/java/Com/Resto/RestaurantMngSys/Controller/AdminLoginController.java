@@ -23,6 +23,10 @@ public class AdminLoginController {
 	@Autowired
 	AdminLoginServiceImpl adservice;
 
+	@GetMapping("/msg")
+	public String getMsg() {
+		return "hello";
+	}
 		
 	@GetMapping("/Admin/login/{adusrname}/{adpassword}")
 	public Admin checkLogin(@PathVariable String adusrname,@PathVariable String adpassword) {
